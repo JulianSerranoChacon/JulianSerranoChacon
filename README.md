@@ -8,8 +8,9 @@ I'm a student interested in videogame AI, gameplay development, videogames desig
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianSerranoChacon&theme=dracula&hide=jupyter%20notebook&layout=compact" alt="Language Stats" />
 </p>
 <!--
-**JulianSerranoChacon/JulianSerranoChacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JulianSerranoChacon/JulianSerranoChacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<details>
  <summary>📃 My Resume</summary>
 
 ## Education
