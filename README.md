@@ -2,7 +2,7 @@
 
 <!-- future portfolio here -->
 
-I'm a student interested in videogame AI, gameplay development, videogames design, engine development, engine QA and game QA.
+I'm a student interested in videogame AI, gameplay development, videogames design, engine development, engine QA, game QA and audio system for videogames.
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=JulianSerranoChacon&theme=dracula&include_all_commits=true&count_private=true&hide_title=true" alt="Commit Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianSerranoChacon&theme=dracula&hide=jupyter%20notebook&layout=compact" alt="Language Stats" />
