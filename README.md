@@ -40,7 +40,7 @@ I'm a student interested in videogame AI, gameplay development, videogames desig
 <p align="center"> <b>Operating systems</b></p>
 <!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows,CachyOs&logoColor=white" />
 </p>
 
 </details>
