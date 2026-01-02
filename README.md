@@ -25,7 +25,7 @@ I'm a student interested in videogame AI, gameplay development, videogames desig
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,javascript,latex,r,&perline=4" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,javascript,java,&perline=4" />
   </a>
 </p>
 
